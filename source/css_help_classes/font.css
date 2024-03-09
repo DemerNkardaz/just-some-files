@@ -1,0 +1,290 @@
+.fs-1 {
+  font-size: 1rem !important;
+}
+
+.fs-2 {
+  font-size: 1.25rem !important;
+}
+
+.fs-3 {
+  font-size: calc(1.275rem + 0.3vw) !important;
+}
+
+.fs-4 {
+  font-size: calc(1.3rem + 0.6vw) !important;
+}
+
+.fs-5 {
+  font-size: calc(1.325rem + 0.9vw) !important;
+}
+
+.fs-6 {
+  font-size: calc(1.375rem + 1.5vw) !important;
+}
+
+.fs-7 {
+  font-size: calc(1.425rem + 2.1vw) !important;
+}
+
+.fs-8 {
+  font-size: calc(1.475rem + 2.7vw) !important;
+}
+
+.fs-9 {
+  font-size: calc(1.525rem + 3.3vw) !important;
+}
+
+.fs-10 {
+  font-size: calc(1.575rem + 3.9vw) !important;
+}
+
+.fs-11 {
+  font-size: calc(1.625rem + 4.5vw) !important;
+}
+
+.fs-12 {
+  font-size: calc(1.675rem + 5.2vw) !important;
+}
+
+.fs-13 {
+  font-size: calc(1.725rem + 5.9vw) !important;
+}
+
+.fs-14 {
+  font-size: calc(1.775rem + 6.6vw) !important;
+}
+
+.fs-15 {
+  font-size: calc(1.825rem + 7.3vw) !important;
+}
+
+.fst-italic {
+  font-style: italic !important;
+}
+
+.fst-normal {
+  font-style: normal !important;
+}
+
+.fw-100 {
+  font-weight: 100 !important;
+}
+
+.fw-200 {
+  font-weight: 200 !important;
+}
+
+.fw-300 {
+  font-weight: 300 !important;
+}
+
+.fw-400 {
+  font-weight: 400 !important;
+}
+
+.fw-500 {
+  font-weight: 500 !important;
+}
+
+.fw-600 {
+  font-weight: 600 !important;
+}
+
+.fw-700 {
+  font-weight: 700 !important;
+}
+
+.fw-800 {
+  font-weight: 800 !important;
+}
+
+.fw-900 {
+  font-weight: 900 !important;
+}
+
+.fw-1000 {
+  font-weight: 1000 !important;
+}
+
+.fw-light {
+  font-weight: lighter !important;
+}
+
+.fw-normal {
+  font-weight: normal !important;
+}
+
+.fw-bold {
+  font-weight: bold !important;
+}
+
+.fw-bolder {
+  font-weight: bolder !important;
+}
+
+
+.lh-1 {
+  line-height: 1 !important;
+}
+
+.lh-2 {
+  line-height: 1.25 !important;
+}
+
+.lh-3 {
+  line-height: 1.5 !important;
+}
+
+.lh-4 {
+  line-height: 2 !important;
+}
+
+.lh-5 {
+  line-height: 2.5 !important;
+}
+
+.lh-6 {
+  line-height: 3 !important;
+}
+
+.lh-7 {
+  line-height: 3.5 !important;
+}
+
+.lh-8 {
+  line-height: 4 !important;
+}
+
+.lh-9 {
+  line-height: 4.5 !important;
+}
+
+.lh-10 {
+  line-height: 5 !important;
+}
+
+.text-start {
+  text-align: left !important;
+}
+
+.text-end {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-noline {
+  text-decoration: none !important;
+}
+
+.text-underline {
+  text-decoration: underline !important;
+}
+
+
+.text-through {
+  text-decoration: line-through !important;
+}
+
+.text-overline {
+  text-decoration: overline !important;
+}
+
+.text-under-overline {
+  text-decoration: overline underline !important;
+}
+
+.text-alllines {
+  text-decoration: overline underline line-through !important;
+}
+
+.line_double {
+  text-decoration-style: double !important;
+}
+
+.line_dottes {
+  text-decoration-style: dotted !important;
+}
+
+.line_dashes {
+  text-decoration-style: dashed !important;
+}
+
+.line_wavy {
+  text-decoration-style: wavy !important;
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.text-caps {
+  font-variant: small-caps !important;
+}
+
+.text-wrap {
+  white-space: normal !important;
+}
+
+.text-nowrap {
+  white-space: nowrap !important;
+}
+
+.text-break {
+  word-wrap: break-word !important;
+  word-break: break-word !important;
+}
+
+.underline-offset-1 {
+  text-underline-offset: 0.125em !important;
+}
+
+.underline-offset-2 {
+  text-underline-offset: 0.25em !important;
+}
+
+.underline-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.underline-offset-4 {
+  text-underline-offset: 0.5em !important;
+}
+
+.underline-offset-5 {
+  text-underline-offset: 0.625em !important;
+}
+
+.underline-offset-6 {
+  text-underline-offset: 0.75em !important;
+}
+
+.underline-offset-7 {
+  text-underline-offset: 0.875em !important;
+}
+
+.underline-offset-8 {
+  text-underline-offset: 1em !important;
+}
+
+.underline-offset-9 {
+  text-underline-offset: 1.25em !important;
+}
+
+.underline-offset-10 {
+  text-underline-offset: 1.5em !important;
+}
+
+.line_grey {
+  text-decoration-color: #aaa !important;
+}
