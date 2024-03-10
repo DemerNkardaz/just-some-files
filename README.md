@@ -18,3 +18,10 @@ gap/row/column: from 0 to 10 : gap- | row-gap- | column-gap-
 underline-offset- from 1 to 10
 
 some other…
+
+# jQuery Drag
+Just generated with AI standalone draggable function for using with jQuery.
+
+$('selector').isdrag({ container: 'selector' /* if you want to limit draggable area to the some element */ });
+Dragging is will not be triggered when resize by ccs resize both, horizonal, vertical rules and will not be triggered when label/span text selection.
+For forces the drag trigger and with label/span text you can add .forceDrag class to this of its' parent.
