@@ -23,5 +23,6 @@ some other…
 Just generated with AI standalone draggable function for using with jQuery.
 
 $('selector').isdrag({ container: 'selector' /* if you want to limit draggable area to the some element */ });
-Dragging is will not be triggered when resize by ccs resize both, horizonal, vertical rules and will not be triggered when label/span text selection.
-For forces the drag trigger and with label/span text you can add .forceDrag class to this of its' parent.
+Dragging is will not be triggered when resize by ccs resize both, horizonal, vertical rules.
+And it will not be triggered with mousedown on text from ["SPAN", "LABEL", "BUTTON", "P", "UL", "OL", "LI", "H1", "H2", "H3", "H4", "H5", "H6", "PRE", "BLOCKQUOTE"] and just on ["INPUT", "TEXTAREA"] elements.
+For forces the drag trigger and with this elements text you can add .forceDrag class to this of its' parent.
